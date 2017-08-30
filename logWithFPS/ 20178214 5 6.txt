@@ -1,0 +1,6 @@
+svo_fps_server:fps_ =3.13, tracking=201863462962, drop_=0 
+svo_fps_server:fps_ =3.48, tracking=64424509486, drop_=0 
+svo_fps_server:fps_ =3.75, tracking=51539607596, drop_=0 
+svo_fps_server:fps_ =3.95, tracking=51539607598, drop_=0 
+svo_fps_server:fps_ =4.18, tracking=77309411368, drop_=0 
+svo_fps_server:fps_ =4.44, tracking=68719476776, drop_=0 
